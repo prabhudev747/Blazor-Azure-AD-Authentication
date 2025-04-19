@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ravishankar S\\source\\repos\\BlazorAuthentication\\BlazorAuthentication\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Ravishankar S\\source\\repos\\BlazorAuthentication\\BlazorAuthentication\\obj\\Debug\\net7.0\\compressed\\c8vu5vuuzo.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Ravishankar S\\source\\repos\\BlazorAuthentication\\BlazorAuthentication\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Ravishankar S\\source\\repos\\BlazorAuthentication\\BlazorAuthentication\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Ravishankar S\\source\\repos\\BlazorAuthentication\\BlazorAuthentication\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorAuthentication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorAuthentication.props",
+      "PackagePath": "build\\BlazorAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAuthentication.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorAuthentication.props",
+      "PackagePath": "buildTransitive\\BlazorAuthentication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
